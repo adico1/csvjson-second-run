@@ -39,5 +39,7 @@ regression methods covering every permitted punctuation character, invalid ASCII
 categories, representative Unicode values, and file/option placement.
 
 These three successful repetitions are evidence for this task and configuration,
-not a general reliability guarantee for arbitrary projects. Delivery and promotion
-are local; no public release or hosted service was created.
+not a general reliability guarantee for arbitrary projects. The source repository is public on GitHub. Delivery and promotion were local;
+no hosted service or tagged release was created.
+
+[Factory and trial evidence](https://github.com/adico1/ai_pipeline).
